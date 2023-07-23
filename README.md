@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Mahmood</h1>
-<h3 align="center">An aspiring Machine Learning developer, but a full-time a visionary</h3>
+<h3 align="center">An aspiring Machine Learning developer, but a full-time visionary</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 
